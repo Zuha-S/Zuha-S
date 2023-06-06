@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zuha-S
-- 👀 I’m interested in travlling
+- 👀 I’m interested in travelling
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
